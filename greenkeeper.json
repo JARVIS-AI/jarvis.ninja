@@ -1,0 +1,15 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "assets/vendor/bootstrap/package.json",
+        "assets/vendor/devbridge-autocomplete/package.json",
+        "assets/vendor/formvalidation/package.json",
+        "assets/vendor/mustache/package.json",
+        "assets/vendor/raty/package.json",
+        "assets/vendor/respond/package.json",
+        "package.json"
+      ]
+    }
+  }
+}
