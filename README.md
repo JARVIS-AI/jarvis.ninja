@@ -1,5 +1,7 @@
 # CV in Ninja & Samurai Style
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/JARVIS-AI/jarvis.ninja.svg)](https://greenkeeper.io/)
+
 Wrtiten in Ruby and Rails
 
 Uses JavaScript
