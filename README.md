@@ -12,9 +12,11 @@ You can see the theme
 
 ### Contribute
 
-If you help me to make it better 
-I welcome any pull and requests from devs
+There is no contribution for this repo 
+It's personal repo
+Thanks for your interests
+
 
 ### License
 
-GPT GNU
+MIT
