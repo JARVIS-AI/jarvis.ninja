@@ -6,7 +6,7 @@ Uses JavaScript
 
 ### Demo version
 
-https://jarvis-ai.github.io/jarvis.ninja/
+ninja.amsl.ir
 
 You can see the theme
 
